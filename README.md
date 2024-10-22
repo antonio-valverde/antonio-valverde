@@ -1,5 +1,14 @@
-### Hi there 👋
+# Antonio Valverde Lemos
+## Aficiones
+El deporte es una de las aficiones más importante en mi vida, ejemplo de deportes que pracrico:
+* Baloncesto: Es el deporte que mas dedico tiempo, en donde entreno a niños y juego en un equipo, este es en el equipo que juego [CB Los Palacios](https://www.youtube.com/channel/UCGW08pqr64ywTKz9O0U5WEA)
+* Natación: Se me da muy nadar, aparte de esto tengo el titulo de socorrista y de monitor de natación 
+* MMA: Practico este deporte en mi tiempo libre, no soy especialmete bueno pero intento aprender siempre que puedo
 
+## Aspiraciones
+
+
+Espero en un futuro cumplir todas estas aspiraciones
 <!--
 **antonio-valverde/antonio-valverde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
