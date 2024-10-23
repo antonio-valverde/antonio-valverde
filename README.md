@@ -6,9 +6,15 @@ El deporte es una de las aficiones más importante en mi vida, ejemplo de deport
 * MMA: Practico este deporte en mi tiempo libre, no soy especialmete bueno pero intento aprender siempre que puedo
 
 ## Aspiraciones
-
+Me gustaria poder trabajar de lo que estoy estudiando, Desarrollo de Aplcaciones Web, ya que es algo que me gusta y que me gustaria aprender más.
+En un futuro sere entrenador de baloncesto de grandes equipos .
+Soy una persona con grandes aspiraciones y tanto en el ambito profesional como en el personal me gustaria seguir avanzando y mejorando.
 
 Espero en un futuro cumplir todas estas aspiraciones
+
+### Redes
+Instagram [anrtonio_valverde_](https://www.instagram.com/antonio_valverde_/profilecard/?igsh=MXI4eHpycjRjeGdrZA)
+LinkedIn [Antonio_Valverde](www.likedin.com/in/antonio-valverde-0462a32aa)
 <!--
 **antonio-valverde/antonio-valverde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
